@@ -1,0 +1,2 @@
+# cloud-mining
+could
